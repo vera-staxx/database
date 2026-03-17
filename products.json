@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "img": "https://imgtolinkx.com/i/QCfKUGRS", // Ganti dengan direct link gambar asli
+    "img": "https://imgtolinkx.com/i/QCfKUGRS",
     "title": "Midman Terpercaya",
     "desc": "Fast Respon, Fee Murah, Layanan Cepat!",
     "price": "Rp500 - Rp5.000"
   },
   {
     "id": 2,
-    "img": "https://your-host.com/image/produk2.jpg", // Gunakan direct link
-    "title": "Nama Produk Asli",
-    "desc": "Deskripsi produk yang jelas",
-    "price": "Rp50.000"
+    "img": "https://imgtolinkx.com/i/wAPNo6Fq",
+    "title": "Customer Service",
+    "desc": "Fast Respon, CS Ramah, Jawaban Logis!",
+    "price": "Rp1.000"
   }
 ]
