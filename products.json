@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "img": "https://freeimage.host/i/qVMsyJe",
+    "img": "https://freeimage.host/image/12345.jpg", // Ganti dengan direct link gambar asli
     "title": "Midman Terpercaya",
     "desc": "Fast Respon, Fee Murah, Layanan Cepat!",
-    "price": "Rp500,00-Rp5.000,00"
+    "price": "Rp500 - Rp5.000"
   },
   {
     "id": 2,
-    "img": "https://via.placeholder.com/200x150?text=bebas",
-    "title": "bebas",
-    "desc": "bebas",
-    "price": "bebas"
+    "img": "https://your-host.com/image/produk2.jpg", // Gunakan direct link
+    "title": "Nama Produk Asli",
+    "desc": "Deskripsi produk yang jelas",
+    "price": "Rp50.000"
   }
 ]
